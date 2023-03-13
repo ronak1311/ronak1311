@@ -9,7 +9,7 @@
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website]([https://soumyajit.vercel.app/](https://ronakgandhi.surge.sh/))**
+- 🙋‍♂️ All about me is at **[My Website](https://ronakgandhi.surge.sh/)**
 
 - 🔭 I’m currently working on `Something Intresting`.
 
