@@ -3,7 +3,7 @@
 </div>  
 
 
-### <div align="center">I'm Ronak, a full-time full-stack developer 👨‍💻 currently studying at Conestoga College 🚀 Expanding my horizons in the web development world 🌐, As a front-end developer, I have already proven my mettle in crafting 🛠️ visually stunning and interactive user interfaces, and now, I set forth to unravel the secrets of the backend to wield the power of full-stack development with finesse. 💯</div>
+### <div align="center">I'm Ronak, a full-time Frontend Engineer 👨‍💻 currently looking for full-time roles in Canada 🚀 Expanding my horizons in the web development world 🌐. As a front-end developer, I have already proven my mettle in crafting 🛠️ visually stunning and interactive user interfaces, and now, I set forth to unravel the secrets of the backend to wield the power of full-stack development with finesse. 💯</div>
 
 ## 👨🏻‍💻 About Me:
 
