@@ -9,11 +9,11 @@
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://ronakgandhi.surge.sh/)**
+- 🙋‍♂️ All about me is at **[My Website](https://ronakfolio.vercel.app/)**
 
 - 🔭 I’m currently working on `Something Intresting`.
 
-- 🌱 I’m currently learning `Blockhain`
+- 🌱 I’m currently learning `Backend and Blockchain`
 
 - 👯 I’m looking for `Co-Op/Internship/Full-Time or Freelancing`
 
