@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="./welcome.gif" align="center" style="width: 100%" />
 </div>  
 
 
@@ -7,7 +7,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+<img  src="./codingGIF.gif" height="290px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://ronakfolio.vercel.app/)**
 
@@ -17,9 +17,9 @@
 
 - 👯 I’m looking for `Co-Op/Internship/Full-Time or Freelancing`
 
-- 💬 Ask me about anything, Except Maths :sweat_smile:
+- 💬 Ask me anything about planes ✈️:
 
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+- 👨‍💻 Life Hack: Learn new tech 🔥: and share what you have learned 🎉:
 
 - ⚡ Fun fact: I uses tabs over spaces
 
@@ -41,7 +41,6 @@
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
 <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
-<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
 <img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
 
@@ -61,5 +60,5 @@
 ## ❤️ Let's get connected:
 
 <p>
-  <a href="https://ronakgandhi.surge.sh/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Ronak.tech-%20-lightgrey?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="https://www.linkedin.com/in/ronakkumar-gandhi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/iam_rk.7/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+  <a href="https://ronakfolio.surge.sh/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Ronak.tech-%20-lightgrey?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="https://www.linkedin.com/in/ronakkumar-gandhi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/iam_rk.7/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 </p>
